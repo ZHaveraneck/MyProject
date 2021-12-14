@@ -1,0 +1,95 @@
+h1{
+    color:darkred;
+    background-color: darkcyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+ 
+body{
+    color: darkred;
+    background-color: darkcyan;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#Sign{
+    text-align: center;
+}
+
+
+
+
+nav{
+    float: right;
+    overflow: hidden;
+    border-style: solid;
+    border-radius: 10%;
+    color: burlywood;
+}
+
+
+
+
+#Dinner_Pic{
+    width: 90px;
+    float:inherit;
+}
+
+#Breakfast{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    
+}
+
+#pancake_description{
+    text-align: center;
+}
+
+#omelette_description{
+    text-align: center;
+}
+
+#waffle_description{
+    text-align: center;
+}
+
+
+#lunch_sign{
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+#burger_description{
+    text-align: center;
+}
+
+#salad_description{
+    text-align: center;
+}
+
+#cubano_description{
+    text-align: center;
+}
+
+#dinner_sign{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+#steak_description{
+    text-align: center;
+}
+
+#salmon_description{
+    text-align: center;
+}
+
+#parm_description{
+    text-align: center;
+}
+
+#ribs_description{
+    text-align: center;
+}
