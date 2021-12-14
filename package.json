@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CrummyPaper80/zach-s_shit.git"
+    "url": "git+https://github.com/ZHaveraneck/MyProject.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CrummyPaper80/zach-s_shit/issues"
+    "url": "https://github.com/ZHaveraneck/MyProject.git/issues"
   },
-  "homepage": "https://github.com/CrummyPaper80/zach-s_shit#readme",
+  "homepage": "https://github.com/ZHaveraneck/MyProject.git",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",

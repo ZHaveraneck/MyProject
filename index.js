@@ -12,9 +12,7 @@ app.get("/", (req, res) => {
   res.render("index");
 });
 
-app.get('/lol', function(req, res) {
-  res.render('../views/lol.ejs');
-});
+
 
 app.get('/Menu', function(req, res) {
   res.render('../views/Menu.ejs');
